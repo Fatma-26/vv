@@ -5,7 +5,7 @@ export default function section1(){
     return(
        <>
       
-       <body>
+      
        
     <section className="secHome">
         <div className="c1">
@@ -23,6 +23,6 @@ export default function section1(){
     </section>
     
 
-</body>
+
 
     </>)}
