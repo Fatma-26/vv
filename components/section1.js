@@ -3,10 +3,7 @@ import Image from "next/image"
 
 export default function section1(){
     return(
-       <>
-      
-       
-       
+       <>    
     <section className="secHome">
         <div className="c1">
           <div className="c11"> 
@@ -21,8 +18,5 @@ export default function section1(){
             <Image src={"/undraw_Login_re_4vu2 (1).png"} width={626} height={631} className="mr-12"></Image>
         </div>
     </section>
-    
-
-
 
     </>)}
