@@ -8,18 +8,9 @@ export default function signup(){
 <>
 
             <header className="headersign">
-            <Image src={"/Screenshot 2024-09-19 171449.png"} width={200} height={900} className="mr-11"></Image>
-            </header>
-
-
-
-
-
-
-
-
-
-
+         
+     
+            <a href="/"> <Image src={"/c186678f7cd589c185fff8baa189e685.png"} width={170} height={68} className="mr-11"></Image></a> </header>
 
                 <div className="orectangle">
                 <div className="rectangle">
@@ -32,7 +23,7 @@ export default function signup(){
                         <div className="enter">Password</div>
                         <input className="input" type="password"></input>
                     </div>
-                    <button className="btn1">Sign Up</button>
+                    <Link href="/../home2">       <button className="btn1">Sign Up</button> </Link>
                     <div className="or">OR</div>
                     <div className="btngoogle">
                     <Image src={"/image 1.png"} width={55} height={56} className="gicon"></Image>

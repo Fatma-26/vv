@@ -5,7 +5,7 @@ export default function section1(){
     return(
        <>
       
-       <body>
+       
        
     <section className="secHome">
         <div className="c1">
@@ -14,7 +14,7 @@ export default function section1(){
                     programming<br></br>Now</p>
           </div>
           <div className="c12">
-             <button>Sign up -it is free</button>
+            <Link href="/signup"><button>Sign up -it is free</button></Link> 
            </div>
         </div>
         <div className="c2">
@@ -23,6 +23,6 @@ export default function section1(){
     </section>
     
 
-</body>
+
 
     </>)}

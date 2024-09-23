@@ -8,8 +8,8 @@ export default function signIn(){
         <div className="box">
             <div className="b1 i"> <Image src={"/Screenshot 2024-09-23 031342.png"} width={380} height={380} ></Image></div>            
             <div className="b2">
-                <div><button>practice</button></div>
-                <div><button>Exams</button></div>
+            <Link href="/home2/practice">   <div><button>practice</button></div> </Link> 
+            <Link href="/home2/examLevel">    <div><button>Exams</button></div> </Link> 
             </div>            
 
         </div>

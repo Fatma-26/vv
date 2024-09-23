@@ -10,21 +10,21 @@ export default function signIn(){
                     <p>Economy</p>
                     <span>20 Attemps</span> 
                     <p>50 EGP</p>
-                    <button>Get it now</button>
+               <Link href="/../pricing/details"> <button>Get it now</button></Link>    
 
                 </div>
                 <div className="card">
                     <p>Economy</p>
                     <span>20 Attemps</span> 
                     <p>50 EGP</p>
-                    <button>Get it now</button>
+                    <Link href="/../pricing/details"> <button>Get it now</button></Link>    
 
                 </div>
                 <div className="card">
                     <p>Economy</p>
                     <span>20 Attemps</span> 
                     <p>50 EGP</p>
-                    <button>Get it now</button>
+                    <Link href="/../pricing/details"> <button>Get it now</button></Link>    
 
                 </div>
 

@@ -5,24 +5,24 @@ export default function contests(){
     return(
         <Format2>
            
-            <p>UPCOMING CHALLENGES</p>
+            <p className="up">UPCOMING CHALLENGES</p>
             <div className="cerds">
                 <div className="cerd">
-                <Image src={"/Screenshot 2024-09-23 031342.png"} width={380} height={380} ></Image>
+                <Image src={"/cyber-security-expert-working-with-technology-neon-lights.jpg"} width={314} height={210} ></Image>
                     <p className="name">NAME of contests</p>
                     <p className="start">STARTS ON</p>
                     <p className="deta"> sep 20 02:30pm</p>
                     <button >REGISTER</button>
                 </div>
                 <div className="cerd">
-                <Image src={"/Screenshot 2024-09-23 031342.png"} width={380} height={380} ></Image>
+                <Image  className="jjj"src={"/hackers-rush-evade-law-enforcement.jpg"} width={380} height={380} ></Image>
                     <p className="name">NAME of contests</p>
                     <p className="start">STARTS ON</p>
                     <p className="deta"> sep 20 02:30pm</p>
                     <button >REGISTER</button>
                 </div>
                 <div className="cerd">
-                <Image src={"/Screenshot 2024-09-23 031342.png"} width={380} height={380} ></Image>
+                <Image src={"/programming-background-collage.jpg"} width={380} height={380} ></Image>
                     <p className="name">NAME of contests</p>
                     <p className="start">STARTS ON</p>
                     <p className="deta"> sep 20 02:30pm</p>
@@ -30,6 +30,49 @@ export default function contests(){
                 </div>
                
                 
+            </div>
+            <p className="up">Past Contests</p>
+            <div className="try">
+                <div className="pcards">
+                    <div className="pcard">
+                    <Image src={"/programming-background-collage.jpg"} width={380} height={380} ></Image>
+                    <div> <p className="name">NAME of contests</p>
+                        <p className="deta"> sep 20 02:30pm</p>
+                        </div>
+                    </div>
+                    <div className="pcard">
+                    <Image src={"/programming-background-collage.jpg"} width={380} height={380} ></Image>
+                    <div> <p className="name">NAME of contests</p>
+                        <p className="deta"> sep 20 02:30pm</p>
+                        </div>
+                    </div>
+                    <div className="pcard">
+                    <Image src={"/programming-background-collage.jpg"} width={380} height={380} ></Image>
+                    <div> <p className="name">NAME of contests</p>
+                        <p className="deta"> sep 20 02:30pm</p>
+                        </div>
+                    </div>
+                    <div className="pcard">
+                    <Image src={"/programming-background-collage.jpg"} width={380} height={380} ></Image>
+                    <div> <p className="name">NAME of contests</p>
+                        <p className="deta"> sep 20 02:30pm</p>
+                        </div>
+                    </div>
+                    <div className="pcard">
+                    <Image src={"/programming-background-collage.jpg"} width={380} height={380} ></Image>
+                    <div> <p className="name">NAME of contests</p>
+                        <p className="deta"> sep 20 02:30pm</p>
+                        </div>
+                    </div>
+                    <div className="pcard">
+                    <Image src={"/programming-background-collage.jpg"} width={380} height={380} ></Image>
+                    <div> <p className="name">NAME of contests</p>
+                        <p className="deta"> sep 20 02:30pm</p>
+                        </div>
+                    </div>
+                    
+
+                </div>
             </div>
         </Format2>
 
