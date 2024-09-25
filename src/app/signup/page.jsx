@@ -16,12 +16,16 @@ export default function signup(){
                 <div className="rectangle">
                     <div className="signIn">Sign Up</div>
                     <div>
-                        <div className="enter">Email address</div>
-                        <input className="input" type="email"></input>
+                        {/* <div className="enter">Email address</div> */}
+                        <input className="input" type="email" placeholder="Email"></input>
+                    </div>
+                    <div>{/* 
+                        <div className="enter">Password</div> */}
+                        <input className="input" type="password" placeholder="Password"></input>
                     </div>
                     <div>
-                        <div className="enter">Password</div>
-                        <input className="input" type="password"></input>
+                        {/* <div className="enter">Email address</div> */}
+                        <input className="input" type="password" placeholder="Confirm password" ></input>
                     </div>
                     <Link href="/../home2">       <button className="btn1">Sign Up</button> </Link>
                     <div className="or">OR</div>

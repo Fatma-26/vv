@@ -8,305 +8,309 @@ export default function lessonsAlg(){
              <div className="b">
                 <div className="lbox">
                     <div className="leson">
-                    <Link href="/home2/practice/lessonsC/lesson">     <p>
+                    <Link href="/home2/practice/lessonsAlg/lesson">     <p>
                             lesson
                         </p> </Link> 
                     </div>
                     <div className="leson">
-                    <Link href="/home2/practice/lessonsC/lesson">     <p>
+                    <Link href="/home2/practice/lessonsAlg/lesson">     <p>
                             lesson
                         </p> </Link> 
                     </div>
                     <div className="leson">
-                    <Link href="/home2/practice/lessonsC/lesson">     <p>
+                    <Link href="/home2/practice/lessonsAlg/lesson">     <p>
                             lesson
                         </p> </Link> 
                     </div>
                     <div className="leson">
-                    <Link href="/home2/practice/lessonsC/lesson">     <p>
+                    <Link href="/home2/practice/lessonsAlg/lesson">     <p>
                             lesson
                         </p> </Link> 
                     </div>
                     <div className="leson">
-                    <Link href="/home2/practice/lessonsC/lesson">     <p>
+                    <Link href="/home2/practice/lessonsAlg/lesson">     <p>
                             lesson
                         </p> </Link> 
                     </div>
                     <div className="leson">
-                    <Link href="/home2/practice/lessonsC/lesson">     <p>
+                    <Link href="/home2/practice/lessonsAlg/lesson">     <p>
                             lesson
                         </p> </Link> 
                     </div>
                     <div className="leson">
-                    <Link href="/home2/practice/lessonsC/lesson">     <p>
+                    <Link href="/home2/practice/lessonsAlg/lesson">     <p>
                             lesson
                         </p> </Link> 
                     </div>
                     <div className="leson">
-                    <Link href="/home2/practice/lessonsC/lesson">     <p>
+                    <Link href="/home2/practice/lessonsAlg/lesson">     <p>
                             lesson
                         </p> </Link> 
                     </div>
                     <div className="leson">
-                    <Link href="/home2/practice/lessonsC/lesson">     <p>
+                    <Link href="/home2/practice/lessonsAlg/lesson">     <p>
                             lesson
                         </p> </Link> 
                     </div>
                     <div className="leson">
-                    <Link href="/home2/practice/lessonsC/lesson">     <p>
+                    <Link href="/home2/practice/lessonsAlg/lesson">     <p>
                             lesson
                         </p> </Link> 
                     </div>
                     <div className="leson">
-                    <Link href="/home2/practice/lessonsC/lesson">     <p>
+                    <Link href="/home2/practice/lessonsAlg/lesson">     <p>
                             lesson
                         </p> </Link> 
                     </div>
                     <div className="leson">
-                    <Link href="/home2/practice/lessonsC/lesson">     <p>
+                    <Link href="/home2/practice/lessonsAlg/lesson">     <p>
                             lesson
                         </p> </Link> 
                     </div>
                     <div className="leson">
-                    <Link href="/home2/practice/lessonsC/lesson">     <p>
+                    <Link href="/home2/practice/lessonsAlg/lesson">     <p>
                             lesson
                         </p> </Link> 
                     </div>
                     <div className="leson">
-                    <Link href="/home2/practice/lessonsC/lesson">     <p>
+                    <Link href="/home2/practice/lessonsAlg/lesson">     <p>
                             lesson
                         </p> </Link> 
                     </div>
                     <div className="leson">
-                    <Link href="/home2/practice/lessonsC/lesson">     <p>
+                    <Link href="/home2/practice/lessonsAlg/lesson">     <p>
                             lesson
                         </p> </Link> 
                     </div>
                     <div className="leson">
-                    <Link href="/home2/practice/lessonsC/lesson">     <p>
+                    <Link href="/home2/practice/lessonsAlg/lesson">     <p>
                             lesson
                         </p> </Link> 
                     </div>
                     <div className="leson">
-                    <Link href="/home2/practice/lessonsC/lesson">     <p>
+                    <Link href="/home2/practice/lessonsAlg/lesson">     <p>
                             lesson
                         </p> </Link> 
                     </div>
                     <div className="leson">
-                    <Link href="/home2/practice/lessonsC/lesson">     <p>
+                    <Link href="/home2/practice/lessonsAlg/lesson">     <p>
                             lesson
                         </p> </Link> 
                     </div>
                     <div className="leson">
-                    <Link href="/home2/practice/lessonsC/lesson">     <p>
+                    <Link href="/home2/practice/lessonsAlg/lesson">     <p>
                             lesson
                         </p> </Link> 
                     </div>
                     <div className="leson">
-                    <Link href="/home2/practice/lessonsC/lesson">     <p>
+                    <Link href="/home2/practice/lessonsAlg/lesson">     <p>
                             lesson
                         </p> </Link> 
                     </div>
                     <div className="leson">
-                    <Link href="/home2/practice/lessonsC/lesson">     <p>
+                    <Link href="/home2/practice/lessonsAlg/lesson">     <p>
                             lesson
                         </p> </Link> 
                     </div>
                     <div className="leson">
-                    <Link href="/home2/practice/lessonsC/lesson">     <p>
+                    <Link href="/home2/practice/lessonsAlg/lesson">     <p>
                             lesson
                         </p> </Link> 
                     </div>
                     <div className="leson">
-                    <Link href="/home2/practice/lessonsC/lesson">     <p>
+                    <Link href="/home2/practice/lessonsAlg/lesson">     <p>
                             lesson
                         </p> </Link> 
                     </div>
                     <div className="leson">
-                    <Link href="/home2/practice/lessonsC/lesson">     <p>
+                    <Link href="/home2/practice/lessonsAlg/lesson">     <p>
                             lesson
                         </p> </Link> 
                     </div>
                     <div className="leson">
-                    <Link href="/home2/practice/lessonsC/lesson">     <p>
+                    <Link href="/home2/practice/lessonsAlg/lesson">     <p>
                             lesson
                         </p> </Link> 
                     </div>
                     <div className="leson">
-                    <Link href="/home2/practice/lessonsC/lesson">     <p>
+                    <Link href="/home2/practice/lessonsAlg/lesson">     <p>
                             lesson
                         </p> </Link> 
                     </div>
                     <div className="leson">
-                    <Link href="/home2/practice/lessonsC/lesson">     <p>
+                    <Link href="/home2/practice/lessonsAlg/lesson">     <p>
                             lesson
                         </p> </Link> 
                     </div>
                     <div className="leson">
-                    <Link href="/home2/practice/lessonsC/lesson">     <p>
+                    <Link href="/home2/practice/lessonsAlg/lesson">     <p>
                             lesson
                         </p> </Link> 
                     </div>
                     <div className="leson">
-                    <Link href="/home2/practice/lessonsC/lesson">     <p>
+                    <Link href="/home2/practice/lessonsAlg/lesson">     <p>
                             lesson
                         </p> </Link> 
                     </div>
                     <div className="leson">
-                    <Link href="/home2/practice/lessonsC/lesson">     <p>
+                    <Link href="/home2/practice/lessonsAlg/lesson">     <p>
                             lesson
                         </p> </Link> 
                     </div>
                     <div className="leson">
-                    <Link href="/home2/practice/lessonsC/lesson">     <p>
+                    <Link href="/home2/practice/lessonsAlg/lesson">     <p>
                             lesson
                         </p> </Link> 
                     </div>
                     <div className="leson">
-                    <Link href="/home2/practice/lessonsC/lesson">     <p>
+                    <Link href="/home2/practice/lessonsAlg/lesson">     <p>
                             lesson
                         </p> </Link> 
                     </div>
                     <div className="leson">
-                    <Link href="/home2/practice/lessonsC/lesson">     <p>
+                    <Link href="/home2/practice/lessonsAlg/lesson">     <p>
                             lesson
                         </p> </Link> 
                     </div>
                     <div className="leson">
-                    <Link href="/home2/practice/lessonsC/lesson">     <p>
+                    <Link href="/home2/practice/lessonsAlg/lesson">     <p>
                             lesson
                         </p> </Link> 
                     </div>
                     <div className="leson">
-                    <Link href="/home2/practice/lessonsC/lesson">     <p>
+                    <Link href="/home2/practice/lessonsAlg/lesson">     <p>
                             lesson
                         </p> </Link> 
                     </div>
                     <div className="leson">
-                    <Link href="/home2/practice/lessonsC/lesson">     <p>
+                    <Link href="/home2/practice/lessonsAlg/lesson">     <p>
                             lesson
                         </p> </Link> 
                     </div>
                     <div className="leson">
-                    <Link href="/home2/practice/lessonsC/lesson">     <p>
+                    <Link href="/home2/practice/lessonsAlg/lesson">     <p>
                             lesson
                         </p> </Link> 
                     </div>
                     <div className="leson">
-                    <Link href="/home2/practice/lessonsC/lesson">     <p>
+                    <Link href="/home2/practice/lessonsAlg/lesson">     <p>
                             lesson
                         </p> </Link> 
                     </div>
                     <div className="leson">
-                    <Link href="/home2/practice/lessonsC/lesson">     <p>
+                    <Link href="/home2/practice/lessonsAlg/lesson">     <p>
                             lesson
                         </p> </Link> 
                     </div>
                     <div className="leson">
-                    <Link href="/home2/practice/lessonsC/lesson">     <p>
+                    <Link href="/home2/practice/lessonsAlg/lesson">     <p>
                             lesson
                         </p> </Link> 
                     </div>
                     <div className="leson">
-                    <Link href="/home2/practice/lessonsC/lesson">     <p>
+                    <Link href="/home2/practice/lessonsAlg/lesson">     <p>
                             lesson
                         </p> </Link> 
                     </div>
                     <div className="leson">
-                    <Link href="/home2/practice/lessonsC/lesson">     <p>
+                    <Link href="/home2/practice/lessonsAlg/lesson">     <p>
                             lesson
                         </p> </Link> 
                     </div>
                     <div className="leson">
-                    <Link href="/home2/practice/lessonsC/lesson">     <p>
+                    <Link href="/home2/practice/lessonsAlg/lesson">     <p>
                             lesson
                         </p> </Link> 
                     </div>
                     <div className="leson">
-                    <Link href="/home2/practice/lessonsC/lesson">     <p>
+                    <Link href="/home2/practice/lessonsAlg/lesson">     <p>
                             lesson
                         </p> </Link> 
                     </div>
                     <div className="leson">
-                    <Link href="/home2/practice/lessonsC/lesson">     <p>
+                    <Link href="/home2/practice/lessonsAlg/lesson">     <p>
                             lesson
                         </p> </Link> 
                     </div>
                     <div className="leson">
-                    <Link href="/home2/practice/lessonsC/lesson">     <p>
+                    <Link href="/home2/practice/lessonsAlg/lesson">     <p>
                             lesson
                         </p> </Link> 
                     </div>
                     <div className="leson">
-                    <Link href="/home2/practice/lessonsC/lesson">     <p>
+                    <Link href="/home2/practice/lessonsAlg/lesson">     <p>
                             lesson
                         </p> </Link> 
                     </div>
                     <div className="leson">
-                    <Link href="/home2/practice/lessonsC/lesson">     <p>
+                    <Link href="/home2/practice/lessonsAlg/lesson">     <p>
                             lesson
                         </p> </Link> 
                     </div>
                     <div className="leson">
-                    <Link href="/home2/practice/lessonsC/lesson">     <p>
+                    <Link href="/home2/practice/lessonsAlg/lesson">     <p>
                             lesson
                         </p> </Link> 
                     </div>
                     <div className="leson">
-                    <Link href="/home2/practice/lessonsC/lesson">     <p>
+                    <Link href="/home2/practice/lessonsAlg/lesson">     <p>
                             lesson
                         </p> </Link> 
                     </div>
                     <div className="leson">
-                    <Link href="/home2/practice/lessonsC/lesson">     <p>
+                    <Link href="/home2/practice/lessonsAlg/lesson">     <p>
                             lesson
                         </p> </Link> 
                     </div>
                     <div className="leson">
-                    <Link href="/home2/practice/lessonsC/lesson">     <p>
+                    <Link href="/home2/practice/lessonsAlg/lesson">     <p>
                             lesson
                         </p> </Link> 
                     </div>
                     <div className="leson">
-                    <Link href="/home2/practice/lessonsC/lesson">     <p>
+                    <Link href="/home2/practice/lessonsAlg/lesson">     <p>
                             lesson
                         </p> </Link> 
                     </div>
                     <div className="leson">
-                    <Link href="/home2/practice/lessonsC/lesson">     <p>
+                    <Link href="/home2/practice/lessonsAlg/lesson">     <p>
                             lesson
                         </p> </Link> 
                     </div>
                     <div className="leson">
-                    <Link href="/home2/practice/lessonsC/lesson">     <p>
+                    <Link href="/home2/practice/lessonsAlg/lesson">     <p>
                             lesson
                         </p> </Link> 
                     </div>
                     <div className="leson">
-                    <Link href="/home2/practice/lessonsC/lesson">     <p>
+                    <Link href="/home2/practice/lessonsAlg/lesson">     <p>
                             lesson
                         </p> </Link> 
                     </div>
                     <div className="leson">
-                    <Link href="/home2/practice/lessonsC/lesson">     <p>
+                    <Link href="/home2/practice/lessonsAlg/lesson">     <p>
                             lesson
                         </p> </Link> 
                     </div>
                     <div className="leson">
-                    <Link href="/home2/practice/lessonsC/lesson">     <p>
+                    <Link href="/home2/practice/lessonsAlg/lesson">     <p>
                             lesson
                         </p> </Link> 
                     </div>
                     <div className="leson">
-                    <Link href="/home2/practice/lessonsC/lesson">     <p>
+                    <Link href="/home2/practice/lessonsAlg/lesson">     <p>
                             lesson
                         </p> </Link> 
                     </div>
                     <div className="leson">
-                    <Link href="/home2/practice/lessonsC/lesson">     <p>
+                    <Link href="/home2/practice/lessonsAlg/lesson">     <p>
                             lesson
                         </p> </Link> 
                     </div>
+                    
+                    
+
+                    
                    
 
                 </div>    
