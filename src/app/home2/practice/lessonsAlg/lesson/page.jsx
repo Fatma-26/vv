@@ -1,6 +1,6 @@
 "use client";
 import React, { useState, useEffect } from 'react';
-
+import Format2 from "../../../../../../layout/format2";
 export default function CodeBlock() {
   const codeCpp = `
 #include <iostream>
@@ -24,6 +24,7 @@ int main() {
 
 
   return (
+    <Format2>
     <div className="ec">
       <div className="black">
         <pre>
@@ -44,5 +45,6 @@ int main() {
         <div id="timer">{timer}</div>
       </div>
     </div>
+    </Format2>
   );
 }

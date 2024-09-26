@@ -15,7 +15,7 @@ export default function section1(){
            </div>
         </div>
         <div className="c2">
-            <Image src={"/undraw_Login_re_4vu2 (1).png"} width={626} height={631} className="mr-12"></Image>
+            <Image src={"/undraw_Login_re_4vu2 (1).png"} width={626} height={631} className="mr-12 oo"></Image>
         </div>
     </section>
 

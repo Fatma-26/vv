@@ -9,7 +9,9 @@ export default function signIn(){
               <div className="boxcour">
                   <div className="course">
                     <div>  <Image src={"/Screenshot 2024-09-19 151323.png"} 
-                      width={470} height={213} className="mr-12"></Image>
+                  
+                  
+                  width={470} height={213} className="mr-12"></Image>
                       </div>
                       <div className="word"> C  </div> 
                     <div><hr></hr></div>  

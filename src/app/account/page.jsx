@@ -6,21 +6,22 @@ export default function contests(){
         <Format2>
                 <p className="ecour">Account Details</p>
         <div className="dbox bb">
-                <div> <p>Name :</p> </div> 
-                <div> <p>Email :</p> </div> 
-                <div>   <p>Age:</p> </div> 
-                <div>   <p>phone :</p> </div> 
-                <div>   <p>City :</p> </div> 
-                <div>   <p>Exams :</p> </div> 
+                <div> <p>Name :<span> fatma yahya mohamed</span></p> </div> 
+                <div> <p>Email :<span>abcd123@gmail.com</span></p> </div> 
+                <div>   <p> Age:<span>70</span></p> </div> 
+                <div>   <p>phone :<span>0123456789</span></p> </div> 
+                <div>   <p>City :<span>City : Ismailia</span></p> </div> 
+                <div>   <p> Exams :<span>3</span></p> </div> 
                
-                <div> <p>Subtype :</p> </div> 
-                <div> <p>points :</p> </div> 
-                <div> <p>Rank :</p> </div> 
+                <div> <p>Subtype : <span>Gold</span></p> </div> 
+                <div> <p>points : <span>30</span></p> </div> 
+                <div> <p>Rank :<span>117/5000</span></p> </div> 
         </div>
-       <div className="dbtn"><button >Log Out</button></div>
-       <div className="dbtn"><button >Delete Account</button>
+       <div className="dbtn acbtn"><button >Log Out</button></div>
+       <div className="dbtn dd acbtn"><button >Delete Account</button>
        </div> 
 
 
 
         </Format2>)}
+        

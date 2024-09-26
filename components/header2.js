@@ -9,7 +9,7 @@ export default function header(){
         width={150} height={48} className="mr-11 m"></Image> </a> 
      <div className="f"> 
        <Link href="/"><div className="y">Home</div></Link> 
-       <Link href="/../home2"> <div className="y">about</div> </Link> 
+       <Link href="/"> <div className="y">about</div> </Link> 
         <Link href="/pricing"><div className="y" >pricing</div></Link>
         
         <Link href="/contests"><div className="btns" >Contest</div> </Link>

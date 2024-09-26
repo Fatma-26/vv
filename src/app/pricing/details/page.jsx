@@ -16,7 +16,7 @@ export default function signIn(){
                 </div> 
                 <div> <p>prics :</p> </div> 
         </div>
-       <div className="dbtn"><button >Proceed with the Payment</button>
+       <div className="rr"><button >Proceed with the Payment</button>
        </div> 
 
 

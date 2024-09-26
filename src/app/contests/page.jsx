@@ -7,13 +7,20 @@ export default function contests(){
            
             <p className="up">UPCOMING CHALLENGES</p>
             <div className="cerds">
-                <div className="cerd">
-                <Image src={"/cyber-security-expert-working-with-technology-neon-lights.jpg"} width={314} height={210} ></Image>
+            <div className="cerd">
+                <Image  className="jjj"src={"/cyber-security-expert-working-with-technology-neon-lights.jpg"} width={380} height={380} ></Image>
                     <p className="name">NAME of contests</p>
                     <p className="start">STARTS ON</p>
                     <p className="deta"> sep 20 02:30pm</p>
                     <button >REGISTER</button>
                 </div>
+       {/*          <div className="cerd">
+                <Image src={"/hackers-rush-evade-law-enforcement.jpg"} width={314} height={210} ></Image>
+                    <p className="name">NAME of contests</p>
+                    <p className="start">STARTS ON</p>
+                    <p className="deta"> sep 20 02:30pm</p>
+                    <button >REGISTER</button>
+                </div> */}
                 <div className="cerd">
                 <Image  className="jjj"src={"/hackers-rush-evade-law-enforcement.jpg"} width={380} height={380} ></Image>
                     <p className="name">NAME of contests</p>
