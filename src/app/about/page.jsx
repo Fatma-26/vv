@@ -14,9 +14,9 @@ export default function about(){
               
                 <Image className="nn"
       src="/64e100abd99932dd7f929a90_Light Ppl 3.webp" 
-      alt="Light People"  // النص البديل للصورة
-      width={950}         // عدّل العرض بناءً على أبعاد الصورة
-      height={500}        // عدّل الارتفاع بناءً على أبعاد الصورة
+      alt="Light People"  
+      width={950}         
+      height={500}       
     />
                 </div>
             </div>
