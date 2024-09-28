@@ -19,7 +19,7 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
   
-
+  background-color:white;
  
   height: 1024px;
 
@@ -154,8 +154,60 @@ header .btn{
   
   ;
 }
+/*about*/
+.about{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+  margin-left: 100px;
+}
+.r1{
+  padding: 30px;
 
+}
+.r1 p{
+  font-size: 52px;
+  margin-bottom: 30px;
+  color: #0e2020;
+  font-weight: bold;
+}
+.r1 span{
+color: #354949;
+font-size: 32px;
+}
+.nn{
+  margin-top: 90px;
+}
+/*register*/
+.reg {
+  /* width: 115px; */
+  width: auto;
+ 
+  height: 51px;
+  font-size: 32px;
+  font-weight: 600px;
+  color: #094546;
+  
+  display: flex;
+  justify-content: center;
+}
+.regrect {
+  width: 600px;  
+}
+.rbtn {
+  cursor: pointer;
+  background-color: #FF914C;
+  display: flex;
+ 
+  margin-left: 250px;
+  padding: 20px;
+  border-radius: 50px;
+}
 
+.rbtn:hover{
+  color: #CDD9DA;
+  background-color: #094546;
+}
 /* sign in */
 .orectangle{
   display: flex;
@@ -175,9 +227,10 @@ header .btn{
   font-size: 32px;
   font-weight: 600px;
   color: #094546;
+  margin-bottom: 30px;
 }
 .enter{
-  font-size:32px ;
+  font-size:22px ;
   font-weight:300px ;
   color:#094546 ;
   font-family: Inter;
@@ -185,17 +238,17 @@ header .btn{
 }
 .input{
   border-radius: 19px;
-  margin-top: 30px;
+  /* margin-top: 30px; */
   margin-bottom: 30px;
   width: 100%;
-  height: 60px;
+  height: 40px;
   padding-left: 20px;
   font-size: 25px;
 }
 .btn1{
-  width:100%;
-  height: 95px;
  
+  width: 100%;
+  height: 60px;
   background-color: #FF914C;
   display: flex;
   justify-content: center;
@@ -203,27 +256,27 @@ header .btn{
   padding: 9px 25px 13px 25px;
   border-radius: 19px;
   color: white;
-  font-size: 32px;
+  font-size: 22px;
 }
 .btn1:hover{
   color: #CDD9DA;
   background-color: #094546;
 }
 .or{
-  color:#094546;
-  font-family:Inter;
+  color: #094546;
+  font-family: Inter;
   font-weight: 500px;
-  font-size: 40px;
+  font-size: 30px;
   display: flex;
   justify-content: center;
   margin-top: 20px;
   margin-bottom: 20px;
 }
 .btngoogle{
+ 
   width: 100%;
-  height: 95px;
+  height: 60px;
   background-color: #ffffff;
-  display: flex;
   gap: 20px;
   display: flex;
   justify-content: center;
@@ -231,15 +284,14 @@ header .btn{
   padding: 9px 25px 13px 25px;
   border-radius: 19px;
   color: #094546;
-
-font-family: Inter;
-font-size: 32px;
+  font-family: Inter;
+  font-size: 22px;
 }
 .rectangle p{
   display: flex;
   justify-content: center;
   margin-top: 20px;
-  font-size: 32px;
+  font-size: 22px;
 }
 .headersign{
   display: flex;
@@ -304,11 +356,25 @@ color: #EFEFEF;
 }
 /*end*/
 /*home2*/
-.box{
+/* .box{
+  margin: 100px;
   display: flex;
   justify-content: center;
   flex-direction: column;
+} */.box {
+  /* margin: 100px; */
+  display: flex;
+  justify-content: center;
+  width: 900px;
+  flex-direction: column;
+  margin: 0px 250px;
 }
+/* 
+   
+    display: flex;
+    justify-content: center;
+    width: max-content;
+    flex-direction: column; */
 .i{
  display: flex;
  flex-direction: column;
@@ -318,14 +384,15 @@ color: #EFEFEF;
  
 }
 .b2{
-  display: grid;
-  grid-template-columns: 1fr 1fr;
+  display: flex;
+  margin: 0px 110px;
 
 }
 .b2 button{
-  font-size: 22px;
-  width: 100px;
-  height: 95px;
+  
+  font-size: 12px;
+  width: 80px;
+  height: 75px;
   margin-top: 45px;
   background-color: #FF914C;
   display: flex;
@@ -340,7 +407,7 @@ color: #EFEFEF;
 .b2 button:hover {
   background-color: #3D9B9C;
 }
-
+.ee{}
 /*contests*/
 .cerds{
   padding: 20px;
@@ -539,13 +606,49 @@ color: #EFEFEF;
   justify-content: center;
   align-items: center;
 }
+/* *****************************result100%****************************/
+.res{display: flex;
+  justify-content: center;
+  /* align-items: center; */
+  background-color: #CDD9DA;
+  flex-direction: column;
+  gap: 30px;
+  margin: 70px 449px;
+  padding: 40px;
+  width: fit-content;
+
+}
+.res p{
+  font-size: 32px;
+  color: #FF914C;
+}
+.res span{
+  font-size: 25px;
+  color: #FF914C;
+}
+.resbtn{
+  background-color: #f4914a;
+  margin:0px 670px;
+  padding: 20px;
+  border-radius: 19px;
+  color: white;
+}
+
+
+.fresbtn{
+  background-color: #f4914a;
+  margin:0px 703px;
+  padding: 20px;
+  border-radius: 19px;
+  color: white;
+}
 
 /*start level exam*/
 .ecard{
   background-color: #4aa7a8;
   padding: 30px;
   color: white;
-
+ 
 }
 .type{
   display: flex;
@@ -565,7 +668,8 @@ color: #EFEFEF;
   justify-content: center;
   align-items:center ;
   gap: 40px;
-  margin-top: 200px;
+  margin-top: 100px;
+  padding: 0px 60px;
 }
 .ecour{
   display: flex;
@@ -573,6 +677,10 @@ color: #EFEFEF;
   margin-top: 40px;
   font-size: 100px;
   color: #094546;
+  
+  font-size: 32px;
+  font-weight: bolder;
+  
   
 }
 /*exam*/
@@ -705,13 +813,21 @@ color: #EFEFEF;
   background-color: #0a0a0a;
   color: white;
   padding: 30px;
-  font-size: 32px;
+  font-size: 22px;
   
  margin-left: 100px;
  margin-right: 100px;
-  margin-top: 80px;
+  margin-top: 40px;
   margin-bottom: 40px;
 
+}
+.ti{
+  
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+  font-size: 32px;
+  color: #094546;
 }
 .dbox div{
   padding: 15px 0px;
@@ -733,10 +849,10 @@ color: #EFEFEF;
     
   background-color: #FF914C;
   padding: 30px;
-  font-size: 32px;
+  font-size: 22px;
   color: white;
   border-radius: 19px;
-  margin-left: 350px;
+  margin:0px 50%;
   width: fit-content;
   display: flex;
   justify-content: center;
@@ -749,7 +865,9 @@ color: #EFEFEF;
   color: #094546;
 }
 .bb span{
-  font-size: 20px;
+    font-size: 20px;
+  color: white;
+  padding-left: 10px;
 }
 .abtn{}
 .acbtn {
@@ -919,31 +1037,35 @@ pre{
 .texts {
   font-size: 20px;
 }
-/*sign*/
+/*sign*//* here************************************************************************************************************
 .input {
   font-size: 20px;
   width: 200px;
   height: 50px;
-}
+} */
 .rectangle {
   width: 250px;
 }
-.signIn{}
+.signIn{
+  
+  font-size: 25px;
+  margin-bottom: 10px;
+}
 .btn1 {
-  width: auto;
+  width: 150px;
   height: auto;
-  margin-left: 44px;
-  font-size: 20px;
+  margin-left: 34px;
+  font-size: 15px;
 }
 .or{
   font-size: small;
 }
 
 .btngoogle {
-  width: auto;
+  width: 200px;
   height: auto;
   /* margin-left: 24px; */
-  font-size: 10px;
+  font-size: 15px;
 }
 
 .gicon {
@@ -988,8 +1110,8 @@ pre{
 /*details*/
 .rr{
   font-size: 15px;
-  margin: 30px 60px;
-  margin-left: 75px;}
+   margin: 30px 35%;
+ }
 .chbtn{
   font-size: 15px;
   padding: 7px;}
@@ -1021,8 +1143,55 @@ border-radius: 5px;}
   margin-left: 110px;
 }
 
+/*about*/
 
+.about {
+  display: block;
+  margin-left: 10px;
+}
 
-
-
+.r1 p {
+  font-size: 27px;
+}
+.r1 span{
+  font-size: 17px;
+}
+.nn {
+  margin-top: 20px;
+}
+/*home2*/
+.box{
+  width: 300px;
+  margin: 0px;
+}
+.b2{
+  margin: 0px;
+}
+/************************payment***********/
+.ti{
+  
+  font-size: 40px;
+  margin-bottom: 30px;
+}
+/*result*/
+.res{
+  margin:30px ;
+}
+.res p{
+  font-size: 25px ;
+}
+.res span{
+  font-size: 18px;
+}
+/*Register*/
+.rbtn{
+  margin: 0px 30%;
+}
+.input{font-size: 15px;
+width: 200px;
+height: 30px;}
+.reg{
+  font-size: 22px;
+  margin-bottom: 30px;
+}
 }

@@ -10,304 +10,253 @@ export default function exams(){
                 <div className="lbox">
                     <div className="leson">
                    <Link href="/home2/examLevel/examsLevel">    <p>
-                            jave
+                            java
                         </p> </Link> 
                     </div>
                     <div className="leson">
                    <Link href="/home2/examLevel/examsLevel">    <p>
-                            jave
+                            python
                         </p> </Link> 
                     </div>
                     <div className="leson">
                    <Link href="/home2/examLevel/examsLevel">    <p>
-                            jave
+                            c
                         </p> </Link> 
                     </div>
                     <div className="leson">
                    <Link href="/home2/examLevel/examsLevel">    <p>
-                            jave
+                            c++
                         </p> </Link> 
                     </div>
                     <div className="leson">
                    <Link href="/home2/examLevel/examsLevel">    <p>
-                            jave
+                            Ruby
                         </p> </Link> 
                     </div>
                     <div className="leson">
                    <Link href="/home2/examLevel/examsLevel">    <p>
-                            jave
+                            PHP
                         </p> </Link> 
                     </div>
                     <div className="leson">
                    <Link href="/home2/examLevel/examsLevel">    <p>
-                            jave
+                            java
                         </p> </Link> 
                     </div>
                     <div className="leson">
                    <Link href="/home2/examLevel/examsLevel">    <p>
-                            jave
+                            python
                         </p> </Link> 
                     </div>
                     <div className="leson">
                    <Link href="/home2/examLevel/examsLevel">    <p>
-                            jave
+                            c
                         </p> </Link> 
                     </div>
                     <div className="leson">
                    <Link href="/home2/examLevel/examsLevel">    <p>
-                            jave
+                            c++
                         </p> </Link> 
                     </div>
                     <div className="leson">
                    <Link href="/home2/examLevel/examsLevel">    <p>
-                            jave
+                            Ruby
                         </p> </Link> 
                     </div>
                     <div className="leson">
                    <Link href="/home2/examLevel/examsLevel">    <p>
-                            jave
+                            PHP
+                        </p> </Link> 
+                    </div>
+
+                    <div className="leson">
+                   <Link href="/home2/examLevel/examsLevel">    <p>
+                            java
                         </p> </Link> 
                     </div>
                     <div className="leson">
                    <Link href="/home2/examLevel/examsLevel">    <p>
-                            jave
+                            python
                         </p> </Link> 
                     </div>
                     <div className="leson">
                    <Link href="/home2/examLevel/examsLevel">    <p>
-                            jave
+                            c
                         </p> </Link> 
                     </div>
                     <div className="leson">
                    <Link href="/home2/examLevel/examsLevel">    <p>
-                            jave
+                            c++
                         </p> </Link> 
                     </div>
                     <div className="leson">
                    <Link href="/home2/examLevel/examsLevel">    <p>
-                            jave
+                            Ruby
                         </p> </Link> 
                     </div>
                     <div className="leson">
                    <Link href="/home2/examLevel/examsLevel">    <p>
-                            jave
+                            PHP
+                        </p> </Link> 
+                    </div>
+
+                    <div className="leson">
+                   <Link href="/home2/examLevel/examsLevel">    <p>
+                            java
                         </p> </Link> 
                     </div>
                     <div className="leson">
                    <Link href="/home2/examLevel/examsLevel">    <p>
-                            jave
+                            python
                         </p> </Link> 
                     </div>
                     <div className="leson">
                    <Link href="/home2/examLevel/examsLevel">    <p>
-                            jave
+                            c
                         </p> </Link> 
                     </div>
                     <div className="leson">
                    <Link href="/home2/examLevel/examsLevel">    <p>
-                            jave
+                            c++
                         </p> </Link> 
                     </div>
                     <div className="leson">
                    <Link href="/home2/examLevel/examsLevel">    <p>
-                            jave
+                            Ruby
                         </p> </Link> 
                     </div>
                     <div className="leson">
                    <Link href="/home2/examLevel/examsLevel">    <p>
-                            jave
+                            PHP
+                        </p> </Link> 
+                    </div>
+
+                    <div className="leson">
+                   <Link href="/home2/examLevel/examsLevel">    <p>
+                            java
                         </p> </Link> 
                     </div>
                     <div className="leson">
                    <Link href="/home2/examLevel/examsLevel">    <p>
-                            jave
+                            python
                         </p> </Link> 
                     </div>
                     <div className="leson">
                    <Link href="/home2/examLevel/examsLevel">    <p>
-                            jave
+                            c
                         </p> </Link> 
                     </div>
                     <div className="leson">
                    <Link href="/home2/examLevel/examsLevel">    <p>
-                            jave
+                            c++
                         </p> </Link> 
                     </div>
                     <div className="leson">
                    <Link href="/home2/examLevel/examsLevel">    <p>
-                            jave
+                            Ruby
                         </p> </Link> 
                     </div>
                     <div className="leson">
                    <Link href="/home2/examLevel/examsLevel">    <p>
-                            jave
+                            PHP
+                        </p> </Link> 
+                    </div>
+
+                    <div className="leson">
+                   <Link href="/home2/examLevel/examsLevel">    <p>
+                            java
                         </p> </Link> 
                     </div>
                     <div className="leson">
                    <Link href="/home2/examLevel/examsLevel">    <p>
-                            jave
+                            python
                         </p> </Link> 
                     </div>
                     <div className="leson">
                    <Link href="/home2/examLevel/examsLevel">    <p>
-                            jave
+                            c
                         </p> </Link> 
                     </div>
                     <div className="leson">
                    <Link href="/home2/examLevel/examsLevel">    <p>
-                            jave
+                            c++
                         </p> </Link> 
                     </div>
                     <div className="leson">
                    <Link href="/home2/examLevel/examsLevel">    <p>
-                            jave
+                            Ruby
                         </p> </Link> 
                     </div>
                     <div className="leson">
                    <Link href="/home2/examLevel/examsLevel">    <p>
-                            jave
+                            PHP
+                        </p> </Link> 
+                    </div>
+
+                    <div className="leson">
+                   <Link href="/home2/examLevel/examsLevel">    <p>
+                            java
                         </p> </Link> 
                     </div>
                     <div className="leson">
                    <Link href="/home2/examLevel/examsLevel">    <p>
-                            jave
+                            python
                         </p> </Link> 
                     </div>
                     <div className="leson">
                    <Link href="/home2/examLevel/examsLevel">    <p>
-                            jave
+                            c
                         </p> </Link> 
                     </div>
                     <div className="leson">
                    <Link href="/home2/examLevel/examsLevel">    <p>
-                            jave
+                            c++
                         </p> </Link> 
                     </div>
                     <div className="leson">
                    <Link href="/home2/examLevel/examsLevel">    <p>
-                            jave
+                            Ruby
                         </p> </Link> 
                     </div>
                     <div className="leson">
                    <Link href="/home2/examLevel/examsLevel">    <p>
-                            jave
+                            PHP
+                        </p> </Link> 
+                    </div>
+
+                    <div className="leson">
+                   <Link href="/home2/examLevel/examsLevel">    <p>
+                            java
                         </p> </Link> 
                     </div>
                     <div className="leson">
                    <Link href="/home2/examLevel/examsLevel">    <p>
-                            jave
+                            python
                         </p> </Link> 
                     </div>
                     <div className="leson">
                    <Link href="/home2/examLevel/examsLevel">    <p>
-                            jave
+                            c
                         </p> </Link> 
                     </div>
                     <div className="leson">
                    <Link href="/home2/examLevel/examsLevel">    <p>
-                            jave
+                            c++
                         </p> </Link> 
                     </div>
                     <div className="leson">
                    <Link href="/home2/examLevel/examsLevel">    <p>
-                            jave
+                            Ruby
                         </p> </Link> 
                     </div>
                     <div className="leson">
                    <Link href="/home2/examLevel/examsLevel">    <p>
-                            jave
+                            PHP
                         </p> </Link> 
                     </div>
-                    <div className="leson">
-                   <Link href="/home2/examLevel/examsLevel">    <p>
-                            jave
-                        </p> </Link> 
-                    </div>
-                    <div className="leson">
-                   <Link href="/home2/examLevel/examsLevel">    <p>
-                            jave
-                        </p> </Link> 
-                    </div>
-                    <div className="leson">
-                   <Link href="/home2/examLevel/examsLevel">    <p>
-                            jave
-                        </p> </Link> 
-                    </div>
-                    <div className="leson">
-                   <Link href="/home2/examLevel/examsLevel">    <p>
-                            jave
-                        </p> </Link> 
-                    </div>
-                    <div className="leson">
-                   <Link href="/home2/examLevel/examsLevel">    <p>
-                            jave
-                        </p> </Link> 
-                    </div>
-                    <div className="leson">
-                   <Link href="/home2/examLevel/examsLevel">    <p>
-                            jave
-                        </p> </Link> 
-                    </div>
-                    <div className="leson">
-                   <Link href="/home2/examLevel/examsLevel">    <p>
-                            jave
-                        </p> </Link> 
-                    </div>
-                    <div className="leson">
-                   <Link href="/home2/examLevel/examsLevel">    <p>
-                            jave
-                        </p> </Link> 
-                    </div>
-                    <div className="leson">
-                   <Link href="/home2/examLevel/examsLevel">    <p>
-                            jave
-                        </p> </Link> 
-                    </div>
-                    <div className="leson">
-                   <Link href="/home2/examLevel/examsLevel">    <p>
-                            jave
-                        </p> </Link> 
-                    </div>
-                    <div className="leson">
-                   <Link href="/home2/examLevel/examsLevel">    <p>
-                            jave
-                        </p> </Link> 
-                    </div>
-                    <div className="leson">
-                   <Link href="/home2/examLevel/examsLevel">    <p>
-                            jave
-                        </p> </Link> 
-                    </div>
-                    <div className="leson">
-                   <Link href="/home2/examLevel/examsLevel">    <p>
-                            jave
-                        </p> </Link> 
-                    </div>
-                    <div className="leson">
-                   <Link href="/home2/examLevel/examsLevel">    <p>
-                            jave
-                        </p> </Link> 
-                    </div>
-                    <div className="leson">
-                   <Link href="/home2/examLevel/examsLevel">    <p>
-                            jave
-                        </p> </Link> 
-                    </div>
-                    <div className="leson">
-                   <Link href="/home2/examLevel/examsLevel">    <p>
-                            jave
-                        </p> </Link> 
-                    </div>
-                    <div className="leson">
-                   <Link href="/home2/examLevel/examsLevel">    <p>
-                            jave
-                        </p> </Link> 
-                    </div>
-                    <div className="leson">
-                   <Link href="/home2/examLevel/examsLevel">    <p>
-                            jave
-                        </p> </Link> 
-                    </div>
+
+
+
                     
                 </div>    
                 

@@ -6,10 +6,10 @@ export default function signIn(){
         <Format2>
 
         <div className="box">
-            <div className="b1 i"> <Image src={"/Screenshot 2024-09-23 031342.png"} width={380} height={380} ></Image></div>            
+            <div className="b1 i"> <Image src={"/GT_logo.png"} width={380} height={380} ></Image></div>            
             <div className="b2">
             <Link href="/home2/practice">   <div><button>practice</button></div> </Link> 
-            <Link href="/home2/examLevel">    <div><button>Exams</button></div> </Link> 
+            <Link href="/home2/examLevel">    <div><button className="ee">Exams</button></div> </Link> 
             </div>            
 
         </div>

@@ -8,7 +8,7 @@ export default function signIn(){
             <div className="try">
               <div className="boxcour">
                   <div className="course">
-                    <div>  <Image src={"/Screenshot 2024-09-19 151323.png"} 
+                    <div>  <Image src={"/programming-background-with-person-working-with-codes-computer.jpg"} 
                   
                   
                   width={470} height={213} className="mr-12"></Image>
@@ -20,7 +20,7 @@ export default function signIn(){
                       </div>
                     </div> 
                     <div className="course">
-                     <Image src={"/Screenshot 2024-09-19 154030.png"} 
+                     <Image src={"/programming-background-collage (2).jpg"} 
                       width={470} height={213} className="mr-12"></Image>
                      
                       <div className="word"> C++  </div> 
@@ -42,7 +42,7 @@ export default function signIn(){
                       </div>
                     </div>    */}
                     <div className="course">
-                    <div>  <Image src={"/Screenshot 2024-09-19 151922.png"} 
+                    <div>  <Image src={"/rear-view-programmer-working-all-night-long.jpg"} 
                       width={470} height={213} className="mr-12"></Image>
                       </div>
                       <div className="word">  Data Structure </div> 
@@ -56,7 +56,7 @@ export default function signIn(){
 
 
                     <div className="course">
-                    <div>  <Image src={"/Screenshot 2024-09-19 152637.png"} 
+                    <div>  <Image src={"/programming-background-with-person-working-with-codes-computer (1).jpg"} 
                       width={470} height={213} className="mr-12"></Image>
                       </div>
                       <div className="word"> Algorithms </div> 
@@ -66,7 +66,7 @@ export default function signIn(){
                       </div>
                     </div>   
                     <div className="course">
-                    <div>  <Image src={"/Screenshot 2024-09-19 154030.png"} 
+                    <div>  <Image src={"/programming-background-collage (1).jpg"} 
                       width={470} height={213} className="mr-12"></Image>
                       </div>
                       <div className="word"> OPP  </div> 

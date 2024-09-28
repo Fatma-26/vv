@@ -1,12 +1,13 @@
 "use client";
 import React, { useState, useEffect } from 'react';
 import Format2 from "../../../../../../layout/format2";
+import Link from 'next/link';
 export default function CodeBlock() {
   const codeCpp = `
 #include <iostream>
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    std::cout << "45" << std::endl;
     return 0;
 }`;
 
@@ -37,10 +38,11 @@ int main() {
         <p className="q">Question</p>
         <p className="o">The output is:</p>
         <div className='d'>
-          <button className="ebtn" >45</button>
-          <button className="ebtn">485</button>
-          <button className="ebtn" >25</button>
-          <button className="ebtn">00</button>
+        <Link href={"/home2/practice/lessonsAlg/lesson/result"}><button className="ebtn" >45</button></Link>  
+        <Link href={"/home2/practice/lessonsAlg/lesson/fresult"}><button className="ebtn" >59</button></Link>  
+        <Link href={"/home2/practice/lessonsAlg/lesson/fresult"}><button className="ebtn" >49</button></Link>  
+        <Link href={"/home2/practice/lessonsAlg/lesson/fresult"}><button className="ebtn" >00</button></Link>  
+          
         </div>
         <div id="timer">{timer}</div>
       </div>

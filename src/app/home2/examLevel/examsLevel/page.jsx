@@ -9,7 +9,7 @@ export default function examLevel(){
          
                 <div className="ecards">
                     <div className="ecard">
-                  <Link href="/home2/examLevel/examsLevel/exam">    <p className="type">Easy</p> </Link>  
+                  <Link href="/home2/examLevel/examsLevel/exam">    <p className="type"> Easy </p> </Link>  
                         <p className="texts">start your inspiration journey<br></br>50s per Question - 10 Points.</p>
                     </div>
                     <div className="ecard">

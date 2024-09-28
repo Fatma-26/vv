@@ -5,7 +5,7 @@ export default function signIn(){
     return(
         <Format>
 
-       <p className="ecour">Payment details</p>
+       <p className="ti">Payment details</p>
         <div className="dbox">
                 <div> <p>Name :</p> </div> 
                 <div> <p>Email :</p> </div> 
@@ -16,7 +16,7 @@ export default function signIn(){
                 </div> 
                 <div> <p>prics :</p> </div> 
         </div>
-       <div className="rr"><button >Proceed with the Payment</button>
+       <div className="rr"><button >Submit{/* Proceed with the Payment */}</button>
        </div> 
 
 
