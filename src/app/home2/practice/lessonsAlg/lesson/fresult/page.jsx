@@ -4,6 +4,7 @@ import Format2 from "../../../../../../../layout/format2";
 export default function fresult(){
     return(
         <Format2>
+            <>
             <div className="res">
                 <p>Result: 0%</p>
                 <p>points:0</p>
@@ -14,6 +15,7 @@ export default function fresult(){
                    Try Again
                 </button>
         </Link>  
+        </>
         </Format2>)}
 
 

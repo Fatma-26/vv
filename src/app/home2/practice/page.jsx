@@ -15,9 +15,9 @@ export default function signIn(){
                       </div>
                       <div className="word"> C  </div> 
                     <div><hr></hr></div>  
-                      <div className="dbtn">
+                      <button className="dbtn">
                   <Link href="/home2/practice/lessonsC"> Start </Link>   
-                      </div>
+                      </button>
                     </div> 
                     <div className="course">
                      <Image src={"/programming-background-collage (2).jpg"} 
@@ -25,9 +25,9 @@ export default function signIn(){
                      
                       <div className="word"> C++  </div> 
                     <div><hr></hr></div>  
-                      <div className="dbtn">
+                      <button className="dbtn">
                   <Link href="/home2/practice/lessonsCpp"> Start </Link>   
-                      </div>
+                      </button>
                     </div> 
 
 
@@ -47,9 +47,9 @@ export default function signIn(){
                       </div>
                       <div className="word">  Data Structure </div> 
                     <div><hr></hr></div>  
-                      <div className="dbtn">
+                      <button className="dbtn">
                       <Link href="/home2/practice/lessonsData"> Start </Link>   
-                      </div>
+                      </button>
                     </div>   
 
 
@@ -61,9 +61,9 @@ export default function signIn(){
                       </div>
                       <div className="word"> Algorithms </div> 
                     <div><hr></hr></div>  
-                      <div className="dbtn">
+                      <button className="dbtn">
                       <Link href="/home2/practice/lessonsAlg"> Start</Link>   
-                      </div>
+                      </button>
                     </div>   
                     <div className="course">
                     <div>  <Image src={"/programming-background-collage (1).jpg"} 
@@ -71,9 +71,9 @@ export default function signIn(){
                       </div>
                       <div className="word"> OPP  </div> 
                     <div><hr></hr></div>  
-                      <div className="dbtn">
+                      <button className="dbtn">
                       <Link href="/home2/practice/lessonsOpp"> Start </Link>   
-                      </div>
+                      </button>
                     </div>   
                     
                   </div>
