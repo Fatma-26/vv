@@ -4,7 +4,7 @@ import Image from "next/image"
 import Format from "../../../layout/format";
 import { useState } from "react";
 
-export default function signup(){
+export default function Signup(){
     const [email, setEmail] = useState("");
     const [password, setPassword] = useState("");
 

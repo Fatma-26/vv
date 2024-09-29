@@ -16,7 +16,7 @@ export default function about(){
        
 
       src="/64e100abd99932dd7f929a90_Light%20Ppl%203%20(1).jpg" 
-      alt="Light People"  
+      alt=""  
       width={950}         
       height={500}       
     />
