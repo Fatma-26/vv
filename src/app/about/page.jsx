@@ -13,10 +13,12 @@ export default function about(){
                 <div className="r2">
               
                 <Image className="nn"
-      src="/64e100abd99932dd7f929a90_Light Ppl 3.webp" 
+       
+
+      src="/64e100abd99932dd7f929a90_Light%20Ppl%203%20(1).jpg" 
       alt="Light People"  
       width={950}         
-      height={500}        
+      height={500}       
     />
                 </div>
             </div>
