@@ -324,7 +324,7 @@ height: 578px;
 color: #EFEFEF;
 
 }
-.card:hover {
+.card button:hover {
   background-color: whitesmoke;
   color: #3D9B9C;
   
@@ -369,7 +369,21 @@ color: #EFEFEF;
   justify-content: center;
   width: 900px;
   flex-direction: column;
-  margin: 0px 250px;
+  margin: 0px 310px;
+}
+.box p{
+  margin: 0;
+  font-size: 32PX;
+  font-weight: bolder;
+  padding: 10PX;
+  display: flex;
+  justify-content: center;
+}
+.box span{
+  
+  display: flex;
+  justify-content: center;
+  font-size: 20px;
 }
 /* 
    
@@ -386,30 +400,38 @@ color: #EFEFEF;
  
 }
 .b2{
+  padding: 40px 20px;
   display: flex;
-  margin: 0px 110px;
+  gap: 20px;
+  justify-content: center;
+
 
 }
-.b2 button{
-  
-  font-size: 12px;
-  width: 80px;
-  height: 30px;
-  margin-top: 45px;
-  background-color: #FF914C;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  padding: 9px 25px 13px 25px;
-  border-radius: 19px;
-  color: white;
-  margin-left: 200px;
-
+.b2 button {
+    border-radius: 9px;
+    padding: 15px 30px;
+    font-size: 20px;
+    /* width: 80px; */
+    /* height: 30px; */
+    /* margin-top: 45px; */
+   
+    /* display: flex; */
+    justify-content: center;
+    /* align-items: center; */
+    /* padding: 9px 25px 13px 25px; */
+    /* border-radius: 19px; */
+    color: white;
+    /* margin-left: 200px; */
 }
 .b2 button:hover {
-  background-color: #3D9B9C;
+  background-color: #3432c3;
 }
-.ee{}
+.ee{
+  background-color: red;
+}
+.ss{
+  background-color: #28a745;
+}
 /*contests*/
 .cerds{
   padding: 20px;
@@ -876,6 +898,9 @@ color: #EFEFEF;
   padding-left: 10px;
 }
 .abtn{}
+.dd{
+  background-color: red;
+}
 .acbtn {
   width: 200px;
   font-size: 20px;
@@ -916,13 +941,7 @@ color: #EFEFEF;
   height: 50px;
   margin-top: 20px;
 }
-.b2 button {
-  width: fit-content;
-  padding: 0px 10px;
-  font-size: 15px;
-  margin: 59px;
-  height: 30px;
-}
+
 .cards {
  
   display: flex;
@@ -1126,12 +1145,6 @@ pre{
 
   
 
-
-
-
-
-
-
 .dbox{
   width: 300px;
   height: auto;
@@ -1168,14 +1181,42 @@ border-radius: 5px;}
 .nn {
   margin-top: 20px;
 }
-/*home2*/
+/*home2***********************************************************/
+/* .box{
+  width: -webkit-fill-available;
+}
+.b2{
+  
+  width: max-content;
+}
+
+.b2 button {
+  
+  font-size: 15px;
+}
+
+.box p{
+  font-size: 17px;}
+.box span{
+  font-size: 14px;} */
 .box{
-  width: 300px;
+  width: fit-content;
   margin: 0px;
 }
 .b2{
-  margin: 0px;
+  
+  width: max-content;
 }
+
+.b2 button {
+  
+  font-size: 15px;
+}
+
+.box p{
+  font-size: 17px;}
+.box span{
+  font-size: 14px;}
 /************************payment***********/
 .ti{
   

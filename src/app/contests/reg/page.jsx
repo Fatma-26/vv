@@ -1,7 +1,13 @@
+"use client";
+import { useState } from "react";
 import Link from "next/link"
 import Image from "next/image"
 import Format2 from "../../../../layout/format2";
 export default function contests(){
+    const [m,sM]=useState('');
+    const hC=()=>{
+        sM("Done")
+    }
     return(
         <Format2>
             <div className="orectangle">
@@ -15,8 +21,9 @@ export default function contests(){
                         <div className="enter">Password</div> */}
                        <input className="input" type="email" placeholder="Email"></input>
                     </div>
-                    <button className="rbtn">Submit</button>
-
+                    <button className="rbtn" onClick={hC}>Submit</button>
+                    {m && <p>{m}</p>}
+                            
                   
                 </div>
                 </div>

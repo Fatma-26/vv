@@ -17,11 +17,14 @@ export default function contests(){
                 <div> <p>points : <span>30</span></p> </div> 
                 <div> <p>Rank :<span>117/5000</span></p> </div> 
         </div>
-       <div className="dbtn acbtn"><button >Log Out</button></div>
-       <div className="dbtn dd acbtn"><button >Delete Account</button>
+       <div className="dbtn acbtn">
+       <Link href={"../"}> <button > Log Out</button> </Link>
+        </div>
+       <div className="dbtn dd acbtn">
+       <Link href={"../"}> <button >Delete Account</button> </Link>
        </div> 
 
 
 
         </Format2>)}
-        
+       
