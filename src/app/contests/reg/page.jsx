@@ -3,7 +3,7 @@ import { useState } from "react";
 import Link from "next/link"
 import Image from "next/image"
 import Format2 from "../../../../layout/format2";
-export default function contests(){
+export default function Contests(){
     const [m,sM]=useState('');
     const hC=()=>{
         sM("Done")
